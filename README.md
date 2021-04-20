@@ -6,7 +6,7 @@
 
 Currenty, I'm a **Software Engineering Manager** at [*Covariant*](https://www.covariant.ai) 🤖 🧠
 
-I'm building a team focused on making building AI based robotics applications easier. If you're interested in working with me, [**we're hiring**](https://covariant.ai/careers)
+I'm building a team focused on making building AI based robotics applications easier. If you're interested in working with me, [**we're hiring**](https://covariant.ai/careers).
 
 Previously, I was a:
 
