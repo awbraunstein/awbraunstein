@@ -4,11 +4,13 @@
 
 ## Work
 
-Currenty, I'm a **Software Engineering Manager** at [*Covariant*](https://www.covariant.ai) 🤖 🧠
-
-I'm building a team focused on making building AI based robotics applications easier. If you're interested in working with me, [**we're hiring**](https://covariant.ai/careers).
+Currently, I'm a **Member of Technical Staff** at [*OpenAI*](https://www.openai.com) where I'm working on the developer platform team.
 
 Previously, I was a:
+
+- **Software Engineering Manager** at [*Covariant*](https://www.covariant.ai) 🤖 🧠
+
+  I worked on making building AI based robotics applications easier.
 
 - **Senior Software Engineer** - [*YouTube*](https://www.youtube.com)
   
